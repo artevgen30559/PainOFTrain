@@ -31,7 +31,7 @@ $stmt = $pdo->prepare($sql);
 $result = $stmt->execute(['title' => $title, 'price' => $price]);
 print_r($result); // Выведет 1 - true
 
-// Подготовленный запрос с получением данных
+// Подготовленный запрос с получением данных 
 $sql = "SELECT * FROM listhotels WHERE price = :price";
 $stmt = $pdo->prepare($sql);
 $stmt->execute(['price' => $price]);

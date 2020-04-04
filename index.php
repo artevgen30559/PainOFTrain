@@ -8,7 +8,17 @@
 	<title>Pain of Train</title>
 </head>
 <body>
-
+	<form id="message">
+    <div class="form-group">
+      <label for="name">Имя:</label>
+      <input type="text" class="form-control" name="name">
+    </div>
+    <div class="form-group">
+      <label for="name">Сообщение:</label>
+      <textarea class="form-control" rows="3" name="message"></textarea>
+    </div>
+    <button id="send-message" class="btn btn-primary">Отправить сообщение</button>
+  </form>
 </body>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>

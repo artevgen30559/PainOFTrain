@@ -10,3 +10,12 @@
 | ------------ | ------ | --------- | --------------- | ------------- |
 | 1 | workout | blabla | blabla |
 
+
+
+## My progress list
+| --------- | Mathematics | Workout | Web-Dev |
+| --------- | ----------- | ------- | ------- |
+| Day in a row |
+| Completed |
+| Minutes per day |
+| Effectiveness |

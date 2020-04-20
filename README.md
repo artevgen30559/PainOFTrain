@@ -7,3 +7,6 @@
 
 ## My progress list
 | Day | Completed | Minutes per day | Effectiveness |
+
+
+| sdasdad 	| asdasdsa 	|   	|   	|   	|

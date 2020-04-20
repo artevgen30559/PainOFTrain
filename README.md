@@ -6,5 +6,5 @@
 📌 OOP principles
 
 ## My progress list
-| Day | Completed | Minutes per day | Effectiveness
-| 1 | asdas | adsad | adasdasd | asdasd
+| Day | Completed | Minutes per day | Effectiveness |
+|   1 |     asdas |           adsad |      adasdasd |

@@ -8,7 +8,7 @@
 | Day in a row | Object | Completed | Minutes/times per day | Effectiveness |
 | ------------ | ------ | --------- | --------------------- | ------------- |
 | 1 | workout | ✅ | 20min | 100%; **UP**⬆️ |
-| 1 | running | ✅ | 15min | 0.5 miles; 1630 steps; **UP**⬆️ |
+| 1 | running | ✅ | 15min | 0.5 miles; 1630 steps; 7 circles; **UP**⬆️ |
 | 1 | food&water |
-| 1 | web-dev | ✅ | 1h 30min | 
+| 1 | web-dev | ✅ | 1h 30min | 100%; **UP**⬆️ |
 | 1 | mathematics | 

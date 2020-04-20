@@ -6,8 +6,8 @@
 📌 OOP principles
 
 ## My progress list
-| Day | Completed | Minutes per day | Effectiveness |
-|-----|-----------|-----------------|---------------|
+| Day in a row | Object | Completed | Minutes per day | Effectiveness |
+| ------------ | ------ | --------- | --------------- | ------------- |
 | 1 | blabla | blabla | blabla |
 
 

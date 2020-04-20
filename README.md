@@ -8,6 +8,6 @@
 ## My progress list
 | Day | Completed | Minutes per day | Effectiveness |
 |-----|-----------|-----------------|---------------|
-
+| 1 | blabla | blabla | blabla |
 
 

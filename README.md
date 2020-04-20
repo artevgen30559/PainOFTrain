@@ -5,11 +5,11 @@
 
 
 ## My progress list
-| Day in a row | Object | Completed | Minutes/times per day | Effectiveness |
-| ------------ | ------ | --------- | --------------------- | ------------- |
-| 1 | workout | ✅ | 20min | 80%; **UP**⬆️ |
-| 1 | running | ✅ | 15min | 0.5 miles; 1630 steps; 7 circles; **UP**⬆️ |
-| 1 | food&water | ✅ | 5 times; 3 bottles |
-| 1 | web-dev | ✅ | 1h 30min | 100% |
-| 1 | mathematics | ✅ | 2h 15min | 90% |
+| Day&Date | Object | Completed | Minutes/times per day | Effectiveness |
+| -------- | ------ | --------- | --------------------- | ------------- |
+| First day 📆 20.04 | workout | ✅ | 20min | 80%; **UP**⬆️ |
+|  | running | ✅ | 15min | 0.5 miles; 1630 steps; 7 circles; **UP**⬆️ |
+|  | food&water | ✅ | 5 times; 3 bottles |
+|  | web-dev | ✅ | 1h 30min | 100% |
+|  | mathematics | ✅ | 2h 15min | 90% |
 | ------------ | ------ | --------- | --------------------- | ------------- |

@@ -16,5 +16,6 @@
 | ------------ | ------ | --------- | --------------------- | ------------- |
 | Second day 📆 21.04 | workout | ✅ | 17min | 70%; **DOWN**⬇️ |
 |  | running | ✅ | 13min | 0.76 miles; 2400 steps; 7+3 circles; **UP**⬆️ |
-|  | food&water |  |  |
+|  | food&water | ✅ | 3 times; 3 bottles |
 |  | web-dev | ✅ | 3h | 90% |
+|  | mathematics | ✅ | 1h | 100% |

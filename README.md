@@ -19,3 +19,9 @@
 |  | food&water | ✅ | 3 times; 3 bottles |
 |  | web-dev | ✅ | 3h | 90% |
 |  | mathematics | ✅ | 1h | 100% |
+| ------------ | ------ | --------- | --------------------- | ------------- |
+| Third day 📆 22.04 | workout | 🆗 | | relax day |
+|  | running | 🆗 |  | relax day |
+|  | food&water | 👎 | 2 times; 1 bottles |
+|  | web-dev | ✅ | 4h 30min | 60% | I'm ate many sweets |
+|  | mathematics | 👎 | null | I'm did nothing, because idled and gamed a lot |

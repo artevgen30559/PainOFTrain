@@ -24,4 +24,4 @@
 |  | running | 🆗 |  | relax day |
 |  | food&water | 👎 | 2 times; 1 bottles | I'm ate many sweets |
 |  | web-dev | ✅ | 4h 30min | 60% |
-|  | mathematics | 👎 | null | I'm did nothing, because idled and gamed a lot |
+|  | mathematics | 👎 | 20min | I'm did nothing, because idled and gamed a lot |

@@ -25,3 +25,9 @@
 |  | food&water | 👎 | 2 times; 1 bottles | I'm ate many sweets |
 |  | web-dev | ✅ | 4h 30min | 60% |
 |  | mathematics | 👎 | 20min | I'm did nothing, because idled and gamed a lot |
+| ------------ | ------ | --------- | --------------------- | ------------- |
+| Fourth day 📆 23.04 | workout | ✅ | 20min | 90%; **UP**⬆️ |
+|  | running | 👎 |  | School was close... |
+|  | food&water | ✅ | 4 times; 2 bottles |
+|  | web-dev | ✅ | 3h 40min | 90% |
+|  | mathematics | 🆗 | null | I decided spend all time on final project by college |
